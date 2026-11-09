@@ -1,0 +1,72 @@
+{
+  "versao": 1,
+  "marca": {
+    "nome": "AfroCreator Tech",
+    "subtitulo": "planner"
+  },
+  "tema": "afrocreator",
+  "cores": {
+    "principal": "#0DF6FE",
+    "secundaria": "#3068F8",
+    "destaque": "#E39A22",
+    "fundo": "#0E2237",
+    "fundo_escuro": "#0F111C",
+    "texto": "#E4FEFF",
+    "sucesso": "#2EE59D"
+  },
+  "fontes": "marca",
+  "redes": [
+    "instagram",
+    "facebook",
+    "youtube",
+    "tiktok",
+    "kwai"
+  ],
+  "tipos_roteiro": [
+    "reel",
+    "longo"
+  ],
+  "tipos_post": [
+    "reel",
+    "longo",
+    "carrossel",
+    "animacao"
+  ],
+  "etapas": [
+    "Gravação rosto",
+    "Gravação tela",
+    "Edição"
+  ],
+  "faixas": [
+    "Reel 1: atração",
+    "Reel 2: educação",
+    "Reel 3: autoridade"
+  ],
+  "visao_inicial": "roteiros",
+  "metricas": {
+    "ativo": true,
+    "redes": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "meta": {
+      "rede": "instagram",
+      "seguidores": 100000,
+      "data": "2027-12-31"
+    },
+    "youtube_handle": ""
+  },
+  "agentes": {
+    "ativo": false,
+    "registro_aprovacoes": "~/AfroCreator Tech/00-Painel/aprovacoes.json",
+    "agente_legenda": "diretor",
+    "comando": [
+      "openclaw"
+    ]
+  },
+  "servidor": {
+    "host": "127.0.0.1",
+    "porta": 8765
+  }
+}

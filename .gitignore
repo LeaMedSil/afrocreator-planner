@@ -1,0 +1,8 @@
+# dados pessoais: nunca vão para o GitHub
+data/
+config.json
+*.tmp
+*.db
+*.db-*
+__pycache__/
+.venv/
